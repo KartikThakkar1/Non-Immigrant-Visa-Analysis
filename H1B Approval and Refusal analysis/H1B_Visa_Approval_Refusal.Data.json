@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "661a1afeda2874c88b43a303"
+  },
+  "Fiscal_Year": 2013,
+  "Approval_Rate": "86.88%",
+  "Refusal_Rate": "13.12%"
+},
+{
+  "_id": {
+    "$oid": "661a1afeda2874c88b43a304"
+  },
+  "Fiscal_Year": 2014,
+  "Approval_Rate": "89.95%",
+  "Refusal_Rate": "10.05%"
+},
+{
+  "_id": {
+    "$oid": "661a1afeda2874c88b43a305"
+  },
+  "Fiscal_Year": 2015,
+  "Approval_Rate": "89.88%",
+  "Refusal_Rate": "10.12%"
+},
+{
+  "_id": {
+    "$oid": "661a1afeda2874c88b43a306"
+  },
+  "Fiscal_Year": 2016,
+  "Approval_Rate": "88.42%",
+  "Refusal_Rate": "11.58%"
+},
+{
+  "_id": {
+    "$oid": "661a1afeda2874c88b43a307"
+  },
+  "Fiscal_Year": 2017,
+  "Approval_Rate": "83.16%",
+  "Refusal_Rate": "16.84%"
+},
+{
+  "_id": {
+    "$oid": "661a1afeda2874c88b43a308"
+  },
+  "Fiscal_Year": 2018,
+  "Approval_Rate": "77.76%",
+  "Refusal_Rate": "22.24%"
+},
+{
+  "_id": {
+    "$oid": "661a1afeda2874c88b43a309"
+  },
+  "Fiscal_Year": 2019,
+  "Approval_Rate": "97.99%",
+  "Refusal_Rate": "2.01%"
+},
+{
+  "_id": {
+    "$oid": "661a1afeda2874c88b43a30a"
+  },
+  "Fiscal_Year": 2020,
+  "Approval_Rate": "97.26%",
+  "Refusal_Rate": "2.74%"
+},
+{
+  "_id": {
+    "$oid": "661a1afeda2874c88b43a30b"
+  },
+  "Fiscal_Year": 2021,
+  "Approval_Rate": "92.85%",
+  "Refusal_Rate": "7.15%"
+},
+{
+  "_id": {
+    "$oid": "661a1afeda2874c88b43a30c"
+  },
+  "Fiscal_Year": 2022,
+  "Approval_Rate": "97.62%",
+  "Refusal_Rate": "2.38%"
+},
+{
+  "_id": {
+    "$oid": "661a1afeda2874c88b43a30d"
+  },
+  "Fiscal_Year": 2023,
+  "Approval_Rate": "97.88%",
+  "Refusal_Rate": "2.12%"
+}]
