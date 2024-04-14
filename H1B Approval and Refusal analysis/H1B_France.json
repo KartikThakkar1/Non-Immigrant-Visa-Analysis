@@ -1,0 +1,27 @@
+[
+  {
+    "Fiscal_Year": "FY 2018",
+    "Approval_Rate": "77.80%",
+    "Refusal_Rate": "22.20%"
+  },
+  {
+    "Fiscal_Year": "FY 2019",
+    "Approval_Rate": "98.07%",
+    "Refusal_Rate": "1.94%"
+  },
+  {
+    "Fiscal_Year": "FY 2020",
+    "Approval_Rate": "97.36%",
+    "Refusal_Rate": "2.64%"
+  },
+  {
+    "Fiscal_Year": "FY 2021",
+    "Approval_Rate": "93.20%",
+    "Refusal_Rate": "6.80%"
+  },
+  {
+    "Fiscal_Year": "FY 2022",
+    "Approval_Rate": "97.64%",
+    "Refusal_Rate": "2.36%"
+  }
+]
