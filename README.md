@@ -12,3 +12,4 @@ Here is the file description for each of the files related to the Prediction tas
 5. prediction_balanced_rf.ipynb : This notebook has the results for using a balanced random forest classifier on unbalanced data. It also has same results for a balanced random classifier trained on important features.
 
 6. prediction_smote.ipynb : This notebook has the results for using data balanced by using SMOTE technique.
+7. Global_wait_time org.ipynb : This notebook has all data regarding the global wait time for both F1 and H1B visa.
