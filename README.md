@@ -13,4 +13,4 @@ Here is the file description for each of the files related to the Prediction tas
 
 6. prediction_smote.ipynb : This notebook has the results for using data balanced by using SMOTE technique.
 7. Global_wait_time org.ipynb : This notebook has all data regarding the global wait time for both F1 and H1B visa.
-8. H1B Approval and Refusal analysis:H1B Average Approval And Refusal Rates.ipynb:This notebook compares the average approval and refusal rates for H1B applications for three countries: France, Australia, and India. 
+8. sandy25188-patch-1(2nd branch):H1B Approval and Refusal analysis:H1B Average Approval And Refusal Rates.ipynb:This notebook compares the average approval and refusal rates for H1B applications for three countries: France, Australia, and India. 
